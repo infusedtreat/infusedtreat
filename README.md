@@ -10,7 +10,7 @@
       <h1><image src="https://i.postimg.cc/YS0N6XnH/smaller.png"> </h1>
       <p>
         🐾 trinket / trinketeer / trinket box (sys) <br>
-        🍏 bodily 20yo, disabled intersex queer plural </br>
+        🍏 bodily 20yo disabled intersex queer plural, <a href="https://pronouns.cc/@Trinket">more here</a> </br>
         🐾 collectively identifies with <a href="https://ranfren.neocities.org/profile/randal/randalivory">him</a>, <a href="https://mlp.fandom.com/wiki/Derpy">her</a>, & <a href="https://mspaintadventures.fandom.com/wiki/John_Egbert">this creature</a><br>
         🍏 we're only on the 18+ server, <b> minors do not interact </b></br>
         🐾 can be found around the hs area, or in random spots!<br>
