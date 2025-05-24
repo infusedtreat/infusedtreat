@@ -5,7 +5,7 @@
   <tr>
     <!-- Left image -->
     <td align="center" width="220">
-      <img src="https://i.postimg.cc/bYRn2wZc/ezgif-2dd4c264405412.gif" width="150" height="200" alt="john looking around"/>
+      <img src="https://i.postimg.cc/bYRn2wZc/ezgif-2dd4c264405412.gif" width="150" height="200"/>
     </td>
     <!-- Main content -->
     <td align="center" width="460">
@@ -21,7 +21,7 @@
     </td>
     <!-- Right image -->
     <td align="center" width="220">
-      <img src="https://i.postimg.cc/QVGNy5tx/ezgif-63e632f9da76d2.gif" width="180" height="180" alt="john symbol"/>
+      <img src="https://i.postimg.cc/QVGNy5tx/ezgif-63e632f9da76d2.gif" width="180" height="180"/>
     </td>
   </tr>
 </table>
