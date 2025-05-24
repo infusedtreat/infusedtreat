@@ -10,8 +10,6 @@
       <h1><image src="https://i.postimg.cc/YS0N6XnH/smaller.png"> </h1>
       <p>
         🐾 trinket / trinketeer / trinket box (sys) <br>
-        🍏 we dont interact with discourse of any kind</br>
-        🐾 just here to make friends and ponies :3<br>
         🍏 bodily 20yo, disabled intersex queer plural </br>
         🐾 collectively identifies with <a href="https://ranfren.neocities.org/profile/randal/randalivory">him</a>, <a href="https://mlp.fandom.com/wiki/Derpy">her</a>, & <a href="https://mspaintadventures.fandom.com/wiki/John_Egbert">this creature</a><br>
         🍏 we're only on the 18+ server, <b> minors do not interact </b></br>
