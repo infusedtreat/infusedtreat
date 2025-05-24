@@ -7,7 +7,7 @@
     </td>
     <!-- Main content -->
     <td align="center" width="460">
-      <h1><image src="https://i.postimg.cc/YS8m4p2q/image-8-1.png"> </h1>
+      <h1><image src="https://i.postimg.cc/YS0N6XnH/smaller.png"> </h1>
       <p>
         🐾 trinket / trinketeer / trinket box (sys) <br>
         🍏 we dont interact with discourse of any kind</br>
