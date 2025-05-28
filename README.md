@@ -2,7 +2,7 @@
   
 ‎ <p align="center">![](https://komarev.com/ghpvc/?username=infusedtreat&color=3543eb&style=plastic&label=ponies)⠀</p>
 
-‎ <p align="center"> <a href="https://www.last.fm/user/glamcoll"><img src="https://lastfm-recently-played.vercel.app/api?user=glamcoll&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=3543eb" alt=":3"> </p>
+‎ <p align="center"> <a href="https://www.last.fm/user/glamcoll"><img src="https://lastfm-recently-played.vercel.app/api?user=glamcoll&footer_style=none&count=1&width=300&loved=true&header_style=compact_stats&bg_color=3543eb&border_radius=40" alt=":3"> </p>
 <table>
   <tr>
     <!-- left image -->
