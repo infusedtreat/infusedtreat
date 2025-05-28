@@ -1,6 +1,6 @@
 <p align="center"> <image src="https://i.postimg.cc/159Z967F/Untitled212-20241221205308-1.png"> </p>
   
-‎ <p align="center">![](https://komarev.com/ghpvc/?username=infusedtreat&color=3543eb&style=plastic&label=ponies)⠀</p>
+‎ <p align="center">![](https://komarev.com/ghpvc/?username=infusedtreat&color=3543eb&style=flat&label=genders)⠀</p>
 
 ‎ <p align="center"> <a href="https://www.last.fm/user/glamcoll"><img src="https://lastfm-recently-played.vercel.app/api?user=glamcoll&footer_style=none&count=1&width=300&loved=true&header_style=compact_stats&bg_color=3543eb&border_radius=40" alt=":3"> </p>
 <table>
