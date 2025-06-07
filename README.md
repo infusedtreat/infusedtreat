@@ -21,7 +21,7 @@
     </td>
               <!-- right image -->
     <td align="center" width="220">
-      <img src="https://i.postimg.cc/63DVzgj0/2877-rilakkumacoffee.png" width="180" height="180"/>
+      <img src="https://i.postimg.cc/zGRvQYrR/image-2025-06-07-123756154-removebg-preview.png" width="180" height="180"/>
     </td>
   </tr>
 </table>
