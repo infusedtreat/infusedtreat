@@ -12,9 +12,9 @@
       <h1>trinket box sys ♪( ´▽｀)</h1>
       <p>
         🐾 call us trinket or trinketeer collectively! <a href="https://pronouns.cc/@Trinket">++</a> <br>
-        🍏 bodily 20yo, disabled intersex queer plural alterhuman </br>
+        🐾 bodily 20yo, disabled intersex queer plural alterhuman </br>
         🐾 collectively identifies with <a href="https://ranfren.neocities.org/profile/randal/randalivory">him</a>, <a href="https://mlp.fandom.com/wiki/Derpy">her</a>, & <a href="https://mspaintadventures.fandom.com/wiki/John_Egbert">this creature</a><br>
-        🍏 we're only on the 18+ server, <b> minors do not interact </b></br>
+        🐾 we're only on the 18+ server, <b> minors do not interact </b></br>
         🐾 can be found around the hs area, or in random spots!<br>
         🍰 <b>check out our linked sites! sign our atabook</b> ^__^</br>
       </p>
